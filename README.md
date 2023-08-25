@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Opa, digaí 👋
+Informata Biomédico, mestrando em Bioinformática.
+Tenho interesse em desenvolvimento de recursos educacionais para saúde, ciência de dados, genômica e filogenia.
 <!--
 **bagrezildo/bagrezildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
